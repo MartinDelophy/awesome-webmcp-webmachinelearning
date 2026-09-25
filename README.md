@@ -13,10 +13,18 @@
 
 ## Try out WebMCP
 
-- [Chrome WebMCP Early Preview ](https://developer.chrome.com/blog/webmcp-epp) and [detailed instructions](https://docs.google.com/document/d/1rtU1fRPS0bMqd9abMG_hc6K9OAI6soUy3Kh00toAgyk/)
+- [Chrome WebMCP Early Preview](https://developer.chrome.com/blog/webmcp-epp) and [detailed instructions](https://docs.google.com/document/d/1rtU1fRPS0bMqd9abMG_hc6K9OAI6soUy3Kh00toAgyk/)
+- [Edge WebMCP Insider Preview](https://github.com/MicrosoftEdge/webmcp-labs#test-webmcp-in-edge)
+- [WebMCP polyfill](https://github.com/webmachinelearning/webmcp-polyfill) by W3C community
 - [MCP-B open-source project](https://github.com/WebMCP-org) by Alex Nahas
-- [An early WebMCP open-source project](https://github.com/jasonjmcghee/WebMCP) by Jason McGhee
 - [Run headless Chrome with the WebMCP flag enabled via Cloudflare](https://developers.cloudflare.com/browser-run/features/webmcp/)
+
+## The Origin Story
+
+Many thanks to our WebMCP pioneers, Alex Nahas and Jason McGhee, for sharing their valuable implementation experience. These early seeds have now evolved into a W3C community project:
+
+- [The initial MCP-B implementation of WebMCP](https://github.com/MiguelsPizza/WebMCP) by Alex Nahas
+- [An early WebMCP open-source project](https://github.com/jasonjmcghee/WebMCP) by Jason McGhee
 
 ## Contents
 
